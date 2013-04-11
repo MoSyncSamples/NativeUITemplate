@@ -1,4 +1,2 @@
-NativeUITemplate
-================
-
-Native UI Template
+Default Native UI Template
+==========================
